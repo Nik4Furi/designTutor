@@ -1,0 +1,81 @@
+[
+    {
+        "category":"softwares",
+        "img": "/img/softwares/soft_1.jpg",
+        "title": "Adobe XD",
+        "description": "Adobe XD is a powerful and easy-to-use vector-based experience design platform that gives teams the tools they need to craft the world's best experiences collaboratively."
+    },
+    {
+        "category":"softwares",
+        "img": "/img/softwares/soft_2.png",
+        "title": "Figma",
+        "description": "Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows. The feature set of Figma focuses on user interface and user experience design, with an emphasis on real-time collaboration, utilising a variety of vector graphics editor and prototyping tools"
+    },
+    {
+        "category":"softwares",
+        "img": "/img/softwares/soft_3.jpg",
+        "title": "In Vission",
+        "description": "InVision is a company that offers leading product design and development platform for teams that are developing digital products. Its inclusive platform and services allow creative collaboration across teams and geographies for enhanced speed to market and powerful business results."
+    },
+    {
+        "category":"softwares",
+        "img": "/img/softwares/soft_4.gif",
+        "title": "Illustration",
+        "description": "An illustration is a decoration, interpretation or visual explanation of a text, concept or process, designed for integration in print and digital published media, such as posters, flyers, magazines, books, teaching materials, animations, video games and films. An illustration is typically created by an illustrator."
+    },
+    {
+        "category":"artiest",
+        "img": "/img/artiest/artiest_1.jpg",
+        "title": "Takashi Murakami",
+        "description": "Takashi Murakami (村上 隆, Murakami Takashi, born February 1, 1962) is a Japanese contemporary artist. He works in fine arts media (such as painting and sculpture) as well as commercial (such as fashion, merchandise, and animation) and is known for blurring the line between high and low arts."
+    },
+    {
+        "category":"artiest",
+        "img": "/img/artiest/artiest_2.jpg",
+        "title": "Luo Zhongli ",
+        "description": "Chinese artist Luo Zhongli is considered one of the country's leading realist painters. The artist is best known for portraits of people living in harsh conditions in rural southwestern China."
+    },
+    {
+        "category":"artiest",
+        "img": "/img/artiest/artiest_3.jpg",
+        "title": "Günther Förg ",
+        "description": "Förg's artistic oeuvre encompasses paintings, graphic and sculptural works as well as a great body of architectural photographs. His geometrical, abstract, and heavily dyed pictures have a strong decorative character"
+    },
+    {
+        "category":"artiest",
+        "img": "/img/artiest/artiest_4.jpg",
+        "title": "Miquel Barcelo",
+        "description": "Neo-Expressionist Miquel Barceló makes abstract, mixed-media paintings that capture the diversity of the natural world and reflect his extensive travels."
+    },
+    {
+        "category":"arts",
+        "img": "/img/arts/art_1.jpg",
+        "title": "Rashika",
+        "description": "Made by Rashika, Developed with the help of our mentors"
+    },
+    {
+        "category":"arts",
+        "img": "/img/arts/art_2.jpg",
+        "title": "Winchi",
+        "description": "Made by Winchi, To denote the socity is what's direction gone"
+    },
+    {
+        "category":"arts",
+        "img": "/img/arts/art_3.jpg",
+        "title": "Willson",
+        "description": "Made by Willson,when participate in kan contest"
+    },
+    {
+        "category":"arts",
+        "img": "/img/arts/art_4.gif",
+        "title": "Rishi",
+        "description": "Made by Rishi,His first painting."
+    },
+    {
+        "category":"arts",
+        "img": "/img/arts/art_5.gif",
+        "title": "John",
+        "description": "Made by John, This is hackthon winning video editing app."
+    }   
+
+]

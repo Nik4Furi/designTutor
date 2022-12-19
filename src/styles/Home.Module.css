@@ -1,0 +1,47 @@
+.main-bg {
+    width: 100%;
+    height: 400px;
+}
+
+/* Done the img into background on the main container  */
+.main-bg::before {
+    content: '';
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background: url('/img/bg.png') center/cover no-repeat;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+/* Used to change the clippath of the img  */
+.clip {
+    clip-path: polygon(19% 0%, 97% 0%, 75% 100%, 0% 92%);
+    width: 26%;
+}
+
+/* To hide the img when screen size is less  */
+.w-full {
+    width: 100% !important;
+}
+
+.w-half {
+    width: 75% !important;
+}
+
+#hide {
+    display: block !important;
+    width: 25% !important;
+}
+
+@media only screen and (max-width: 942px) {
+    .w-half {
+        width: 100% !important;
+    }
+
+    #hide {
+        display: none !important;
+    }
+}

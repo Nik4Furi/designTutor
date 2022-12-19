@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:/robots.txt
+Disallow:/src/*
+Disallow:/src/components/*
+Disallow:/src/pages
+Disallow:/src/styles/*
+Disallow:README.md
+
+Crawl-delay: 15

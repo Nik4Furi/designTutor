@@ -1,8 +1,8 @@
 # <h1 id="designTutor"> designTutor ![GitHub package.json version](https://img.shields.io/github/package-json/v/Nik4Furi/designTutor) </h1>
-### A REACT APP, can help the user to learn and inspiration to make better designings, or use of the softwares to make fantastic softwares 
+### A REACT APP, can help the user to learn and inspiration to make better designings, or use of the softwares to make fantastic softwares. <a href="https://rococo-gecko-a6c0de.netlify.app" target="_blank" rel="noopener noreferrer">It's live</a>
 designTutor, is help the users to learn and enhance their designing skills and creativity
 
-<a href={`${url.fullurl}`} target="_blank" rel="noopener noreferrer">{url.fullurl}</a>
+
 
 ## Indexing the contents
 ####   <p><a href="#badges" >Badges</a></p>
